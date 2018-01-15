@@ -1,16 +1,19 @@
 # h
-h is BrainFuck in disguise
-It's just BrainFuck but uses only "h"
-BrainFuck symbols are translated into strings of "h"
+h is BrainFuck in disguise.
 
-'>' - h
-'<' - hh
-'+' - hhh
-'-' - hhhh
-'.' - hhhhh
-',' - hhhhhh
-'[' - hhhhhhh
-']' - hhhhhhhh
+It's just BrainFuck but uses only "h".
+
+BrainFuck symbols are translated into strings of "h".
+
+
+* '>' - h
+* '<' - hh
+* '+' - hhh
+* '-' - hhhh
+* '.' - hhhhh
+* ',' - hhhhhh
+* '[' - hhhhhhh
+* ']' - hhhhhhhh
 
 Here is a sample hello world -
 

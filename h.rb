@@ -1,5 +1,5 @@
 =begin
-A simple (probably) brainfuck interpreter
+A simple (probably) h interpreter
 If does not work, blame Jason
 =end
 require "io/console"
